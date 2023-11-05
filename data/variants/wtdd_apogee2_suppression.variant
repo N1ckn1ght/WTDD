@@ -1,0 +1,45 @@
+{
+  "variantId": "wtdd_apogee2_suppression",
+  "hullId": "wtdd_apogee2",
+  "displayName": "Suppression",
+  "goalVariant": true,
+  "fluxCapacitors": 8,
+  "fluxVents": 0,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [
+    "missleracks",
+    "eccm",
+    "hardened_subsystems",
+    "hardenedshieldemitter",
+    "stabilizedshieldemitter"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "squall",
+        "WS0004": "squall"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "swarmer",
+        "WS0006": "swarmer"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "pdburst",
+        "WS0008": "pdburst"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

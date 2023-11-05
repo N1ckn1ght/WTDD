@@ -1,0 +1,208 @@
+{
+  "hullName": "Apogee Mk.II",
+  "hullId": "wtdd_apogee2",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/apogee/apogee_mk2.png",
+  "style": "HIGH_TECH",
+  "coversColor": "255,255,255,255",
+  "height": 280,
+  "width": 140,
+  "center": [70, 115],
+  "collisionRadius": 220,
+  "shieldCenter": [18, 0],
+  "shieldRadius": 200,
+  "viewOffset": 0,
+  "builtInMods": [
+    "safetyoverrides"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 110,
+      "locations": [-55, 43]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -110,
+      "locations": [-55, -43]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -45,
+      "locations": [83, -61]
+    },
+    {
+      "id": "WS0002",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [148, -25]
+    },
+    {
+      "id": "WS0003",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 45,
+      "locations": [-2, 35]
+    },
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [148, 25]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 45,
+      "locations": [83, 61]
+    },
+    {
+      "id": "WS0004",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -45,
+      "locations": [-2, -35]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-110, 44],
+      "length": 64,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-111, 33],
+      "length": 80,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-111, -32],
+      "length": 80,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-110, -43],
+      "length": 64,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-113, 14],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-113, 8],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-113, -7],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-113, -13],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-113, 0],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    83, 53,
+    114, 58,
+    140, 45,
+    137, 35,
+    150, 25,
+    138, 16,
+    138, -16,
+    150, -25,
+    137, -35,
+    140, -45,
+    114, -58,
+    83, -53,
+    76, -61,
+    53, -53,
+    74, -25,
+    19, -23,
+    -1, -51,
+    -42, -31,
+    -48, -52,
+    -69, -60,
+    -71, -39,
+    -91, -54,
+    -108, -49,
+    -108, -27,
+    -98, -22,
+    -111, -16,
+    -111, 16,
+    -98, 22,
+    -108, 27,
+    -107, 49,
+    -91, 54,
+    -71, 39,
+    -69, 60,
+    -48, 52,
+    -42, 31,
+    -1, 51,
+    19, 23,
+    74, 25,
+    53, 53,
+    76, 61
+  ]
+}

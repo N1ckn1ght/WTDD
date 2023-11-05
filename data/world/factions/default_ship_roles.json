@@ -1,0 +1,11 @@
+{
+	"combatLarge":{
+		"wtdd_apogee2_outdated":3,
+		"wtdd_apogee2_assault":3,
+		"wtdd_apogee2_suppression":3,
+		"wtdd_apogee2_inverted_pirate":1,
+	},
+	"combatFreighterLarge":{
+		"wtdd_apogee2_inverted_pirate":10,
+	},
+}
