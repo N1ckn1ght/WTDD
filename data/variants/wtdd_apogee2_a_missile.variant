@@ -1,26 +1,24 @@
 {
-  "variantId": "wtdd_apogee2_suppression",
-  "hullId": "wtdd_apogee2",
-  "displayName": "Suppression",
+  "variantId": "wtdd_apogee2_a_missile",
+  "hullId": "wtdd_apogee2_a",
+  "displayName": "Missile",
   "goalVariant": true,
-  "fluxCapacitors": 1,
+  "fluxCapacitors": 7,
   "fluxVents": 0,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
-    "missleracks",
-    "eccm",
-    "targetingunit",
-    "hardenedshieldemitter",
-    "stabilizedshieldemitter"
+    "missleracks"
   ],
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "gravitonbeam",
-        "WS0002": "gravitonbeam"
+        "WS0001": "squall",
+        "WS0002": "squall",
+        "WS0007": "squall",
+        "WS0008": "squall"
       }
     },
     {
@@ -37,19 +35,14 @@
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0007": "squall",
-        "WS0008": "squall"
-      }
-    },
-    {
-      "autofire": true,
-      "mode": "LINKED",
-      "weapons": {
         "WS0009": "pdburst",
         "WS0010": "pdburst"
       }
     }
   ],
   "modules": [],
-  "wings": []
+  "wings": [
+    "cobra_wing",
+    "cobra_wing"
+  ]
 }

@@ -1,0 +1,57 @@
+{
+  "baseHullId": "wtdd_apogee2",
+  "baseValueMult": 0.8,
+  "builtInMods": [
+    "safetyoverrides"
+  ],
+  "descriptionId": "wtdd_apogee2",
+  "descriptionPrefix": "This Apogee Mk. II was made by OG Dawg guidelines with his clever solutions and their consequences. Built-in safety overrides allow this ship to fully maintain its large energy weaponry, but also require it to fight at much closer range. Defensive flare system was thrown out for yet another reckless decision. In comparison to standardized design, it also lacks additional ordnance points, as well as fighter bays, and conversion of stern energy mounts to ballstic wasn't really successful.",
+  "fighterBays": 0,
+  "hullName": "Apogee Mk.II (P)",
+  "ordnancePoints": 140,
+  "restoreToBaseHull": false,
+  "skinHullId": "wtdd_apogee2_p",
+  "spriteName": "graphics/ships/apogee/apogee_mk2_pirate.png",
+  "systemId": "fastmissileracks",
+  "tags":["rare_bp", "pirate_bp"],
+  "tech": "Pirate",
+  "weaponSlotChanges":{
+	"WS0009":{
+	   "size": "SMALL",
+	  "type": "HYBRID"
+	},
+	"WS0010":{
+	  "size": "SMALL",
+	  "type": "HYBRID"
+	}
+  },
+  "engineSlotChanges":{
+    "0":{
+      "style": "MIDLINE"
+    },
+    "1":{
+      "style": "MIDLINE"
+    },
+    "2":{
+      "style": "MIDLINE"
+    },
+    "3":{
+      "style": "MIDLINE"
+    },
+    "4":{
+      "style": "MIDLINE"
+    },
+    "5":{
+      "style": "MIDLINE"
+    },
+    "6":{
+      "style": "MIDLINE"
+    },
+    "7":{
+      "style": "MIDLINE"
+    },
+    "8":{
+      "style": "MIDLINE"
+    }
+  }
+}

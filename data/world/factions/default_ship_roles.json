@@ -1,11 +1,11 @@
 {
 	"combatLarge":{
-		"wtdd_apogee2_outdated":3,
-		"wtdd_apogee2_assault":3,
-		"wtdd_apogee2_suppression":3,
-		"wtdd_apogee2_inverted_pirate":1,
-	},
-	"combatFreighterLarge":{
-		"wtdd_apogee2_inverted_pirate":10,
+		"wtdd_apogee2_outdated":2,
+		"wtdd_apogee2_attack":2,
+		"wtdd_apogee2_suppression":2,
+		"wtdd_apogee2_p_assault":3,
+		"wtdd_apogee2_p_missile":3,
+		"wtdd_apogee2_a_elite":1,
+		"wtdd_apogee2_a_missile":1,
 	},
 }

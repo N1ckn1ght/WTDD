@@ -1,40 +1,28 @@
 {
-  "variantId": "wtdd_apogee2_suppression",
-  "hullId": "wtdd_apogee2",
-  "displayName": "Suppression",
+  "variantId": "wtdd_apogee2_a_elite",
+  "hullId": "wtdd_apogee2_a",
+  "displayName": "Elite",
   "goalVariant": true,
-  "fluxCapacitors": 1,
-  "fluxVents": 0,
+  "fluxCapacitors": 0,
+  "fluxVents": 25,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
     "missleracks",
-    "eccm",
     "targetingunit",
-    "hardenedshieldemitter",
-    "stabilizedshieldemitter"
+    "hiressensors"
   ],
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "gravitonbeam",
-        "WS0002": "gravitonbeam"
+        "WS0001": "mjolnir",
+        "WS0002": "mjolnir"
       }
     },
     {
       "autofire": false,
-      "mode": "ALTERNATING",
-      "weapons": {
-        "WS0003": "gorgon",
-        "WS0004": "gorgon",
-        "WS0005": "gorgon",
-        "WS0006": "gorgon"
-      }
-    },
-    {
-      "autofire": true,
       "mode": "LINKED",
       "weapons": {
         "WS0007": "squall",

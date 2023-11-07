@@ -1,9 +1,5 @@
 id,type,text1,text2,text3,text4,notes
-wtdd_apogee2,SHIP,"This Apogee is NOT an effective mix of scientific and military technologies anymore, as it doesn't feature infamous asymmetric design.
+wtdd_apogee2,SHIP,"The Apogee-class cruiser was already perfect, although striving for more firepower, this design was born. Not a science vessel anymore, but a military one, it doesn't contain civilian equipment nor cargo holds. Instead, pure symmetrical Apogee Mk. II has two pairs of large mounts and two hangar bays. It's a little bit cramped here, thus both fighter pilots and missile system officers usually don't perceive carriyng a duty with a joy.
 
-Some inner-circle known pirate just removed the ""science"" from this vessel, leaving only ""military"" in the formula. At least two apogees were destroyed in order to create this abomination. Of course, all high-tech nonsense was removed in the process.
-
-Flux capacitors couldn't dream of supporting this amount of large mounts, yet another creative solution was born in the form of safety overrides. While ordnance problem is still left unsolved, this killing machine surprisingly does its job... as long as it's combat ready, that is.",,,,
-wtdd_apogee2_inverted,SHIP,"For each Apogee Mk. II produced, there is one Apogee Mk. II inverted.
-
-At least it has some cargo holds.",,,,
+It's quite uneasy to originate from where this design came from. There was a middle-ranked Tri-Tachyon officer wanting a promotion who propose the idea, but such ship was already spotted amongst pirates. Some qualified engineers made it possible to build the prototype that wasn't particularly broken, now all that's left is to spot a niche for such modification. It still has the same old flux coils, but at least ordnance problem was somewhat solved.",,,,
+wtdd_cobra2,SHIP,"After finishing his second fat blunt, Dawg found the way to improve already devastating Cobra wing. It simply needs more auxilary thrusters. How come no one was bright enough to understand? Since it was impossible to furthermore upgrade bomber itself, he managed to squeesh two of them inside one hangar bay. Replacement rate has been changed accordingly through putting some pressure on working technicians.",,,,

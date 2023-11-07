@@ -1,11 +1,11 @@
 {
-  "variantId": "wtdd_apogee2_assault",
+  "variantId": "wtdd_apogee2_attack",
   "hullId": "wtdd_apogee2",
-  "displayName": "Assault",
+  "displayName": "Attack",
   "goalVariant": true,
-  "fluxCapacitors": 1,
+  "fluxCapacitors": 11,
   "fluxVents": 0,
-  "quality": 0,
+  "quality": 1,
   "permaMods": [],
   "hullMods": [
     "targetingunit",
@@ -23,21 +23,24 @@
     },
     {
       "autofire": false,
-      "mode": "LINKED",
+      "mode": "ALTERNATING",
       "weapons": {
-        "WS0003": "squall",
-        "WS0004": "squall"
+        "WS0007": "sabotpod",
+        "WS0008": "sabotpod"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0007": "lightdualmg",
-        "WS0008": "lightdualmg"
+        "WS0009": "pdburst",
+        "WS0010": "pdburst"
       }
     }
   ],
   "modules": [],
-  "wings": []
+  "wings": [
+    "xyphos_wing",
+    "cobra_wing"
+  ]
 }

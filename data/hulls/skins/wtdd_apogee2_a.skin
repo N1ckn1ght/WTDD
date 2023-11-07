@@ -1,0 +1,29 @@
+{
+  "baseHullId": "wtdd_apogee2",
+  "baseValueMult": 1.3333333,
+  "builtInMods": [
+	"coherer",
+    "delicate",
+	"eccm"
+  ],
+  "descriptionId": "wtdd_apogee2",
+  "descriptionPrefix": "This ship modification has unknown markings. It's much more streamlined and generally better with missiles and projectiles, but also being harder to operate and more vulnerable to enemy electronic countermeasures, its usage is not adviced. Frontline hardpoints can support any type of large guns.",
+  "fighterBays": 2,
+  "hullName": "Apogee Mk.II (A)",
+  "ordnancePoints": 169,
+  "restoreToBaseHull": false,
+  "skinHullId": "wtdd_apogee2_a",
+  "spriteName": "graphics/ships/apogee/apogee_mk2_astron.png",
+  "suppliesToRecover":35,
+  "suppliesPerMonth":35,
+  "tags":["rare_bp", "merc", "ind"],
+  "tech": "Unknown",
+  "weaponSlotChanges":{
+	"WS0001":{
+	  "type": "UNIVERSAL"
+	},
+	"WS0002":{
+	  "type": "UNIVERSAL"
+	}
+  }
+}
