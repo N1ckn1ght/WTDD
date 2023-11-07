@@ -3,7 +3,7 @@
   "hullId": "wtdd_apogee2",
   "displayName": "Outdated",
   "goalVariant": true,
-  "fluxCapacitors": 10,
+  "fluxCapacitors": 7,
   "fluxVents": 0,
   "quality": 1,
   "permaMods": [],
@@ -48,6 +48,6 @@
   "modules": [],
   "wings": [
     "longbow_wing",
-    "longbow_wing"
+    "cobra_wing"
   ]
 }

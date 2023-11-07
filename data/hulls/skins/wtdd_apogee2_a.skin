@@ -9,6 +9,7 @@
   "descriptionId": "wtdd_apogee2",
   "descriptionPrefix": "This ship modification has unknown markings. It's much more streamlined and generally better with missiles and projectiles, but also being harder to operate and more vulnerable to enemy electronic countermeasures, its usage is not adviced. Frontline hardpoints can support any type of large guns.",
   "fighterBays": 2,
+  "fleetPoints": 20,
   "hullName": "Apogee Mk.II (A)",
   "ordnancePoints": 169,
   "restoreToBaseHull": false,

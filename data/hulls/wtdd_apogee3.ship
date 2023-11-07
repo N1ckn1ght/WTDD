@@ -1,0 +1,314 @@
+{
+  "hullName": "Apogee Mk.III",
+  "hullId": "wtdd_apogee3",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/ships/apogee/apogee_mk3000.png",
+  "style": "HIGH_TECH",
+  "height": 300,
+  "width": 242,
+  "center": [121, 139],
+  "collisionRadius": 223,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 217,
+  "viewOffset": 0,
+  "builtInMods": [
+    "surveying_equipment",
+    "hiressensors"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 330,
+      "angle": 0,
+      "locations": [95, 0]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 90,
+      "locations": [45, 63]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -90,
+      "locations": [45, -63]
+    },
+    {
+      "id": "WS0004",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 80,
+      "locations": [-2, 21]
+    },
+    {
+      "id": "WS0005",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -80,
+      "locations": [-2, -21]
+    },
+    {
+      "id": "WS0006",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 110,
+      "locations": [-70, 43]
+    },
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -110,
+      "locations": [-70, -43]
+    },
+    {
+      "id": "WS0008",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [133, 25]
+    },
+    {
+      "id": "WS0009",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": -0,
+      "locations": [133, -25]
+    },
+    {
+      "id": "WS0010",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 45,
+      "locations": [-17, 77]
+    },
+    {
+      "id": "WS0011",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -45,
+      "locations": [-17, -77]
+    },
+    {
+      "id": "WS0012",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 90,
+      "locations": [-72, 88]
+    },
+    {
+      "id": "WS0013",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -90,
+      "locations": [-72, -88]
+    },
+    {
+      "id": "WS0014",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 45,
+      "locations": [113, 66]
+    },
+    {
+      "id": "WS0015",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -45,
+      "locations": [113, -66]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-127, 8],
+      "length": 80,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-127, -8],
+      "length": 80,
+      "width": 16,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-127, 14],
+      "length": 64,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-127, -14],
+      "length": 64,
+      "width": 16,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-126, 32.5],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-126, -32.5],
+      "length": 48,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-125, 44],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-125, -44],
+      "length": 32,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-100, 63],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-100, -63],
+      "length": 32,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-127, -0],
+      "length": 96,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-103, 78],
+      "length": 56,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-103, -78],
+      "length": 56,
+      "width": 14,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-106, 93.5],
+      "length": 80,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-106, -93.5],
+      "length": 80,
+      "width": 20,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -126, -15,
+    -111, -25,
+    -125, -28,
+    -117, -54,
+    -89, -40,
+    -100, -102.5,
+    -58, -97,
+    -39, -76,
+    -18, -91,
+    -3, -75,
+    -10, -61,
+    23.5, -52,
+    38, -74,
+    52, -74,
+    68, -52,
+    106, -68,
+    142, -25,
+    122, -0,
+    142, 25,
+    106, 68,
+    68, 52,
+    52, 74,
+    38, 74,
+    23.5, 52,
+    -10, 61,
+    -3, 75,
+    -18, 91,
+    -39, 76,
+    -58, 97,
+    -100, 102.5,
+    -89, 40,
+    -117, 54,
+    -125, 28,
+    -111, 25,
+    -126, 15
+  ]
+}

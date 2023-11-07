@@ -1,2 +1,2 @@
 id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
-wtdd_cobra2_wing,wtdd_cobra2_bomber,"bomber6, bomber, low, rare_bp, pirate_bp, merc",3,0.25,8,30,V,4000,2000,600,2,BOMBER,Bomber,10,40000,,,,,,,,,,,,,10.5
+wtdd_cobra2_wing,wtdd_cobra2_bomber,"bomber6, bomber, low, rare_bp, merc",3,0.25,8,30,V,4000,2000,600,2,BOMBER,Bomber,10,40000,,,,,,,,,,,,,10.5

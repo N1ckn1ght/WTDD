@@ -1,0 +1,13 @@
+{
+	"knownShips":{
+		"hulls":[
+			"wtdd_apogee2_p",
+			"wtdd_apogee3"
+		],
+	},
+	"knownFighters":{
+		"fighters":[
+			"wtdd_cobra2_wing"
+		],
+	}
+}

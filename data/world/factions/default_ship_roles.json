@@ -8,4 +8,7 @@
 		"wtdd_apogee2_a_elite":1,
 		"wtdd_apogee2_a_missile":1,
 	},
+	"combatCapital":{
+		"wtdd_apogee3_assault":4,
+	},
 }
