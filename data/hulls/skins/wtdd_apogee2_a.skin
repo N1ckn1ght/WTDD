@@ -17,7 +17,7 @@
   "spriteName": "graphics/ships/apogee/apogee_mk2_astron.png",
   "suppliesToRecover":35,
   "suppliesPerMonth":35,
-  "tags":["rare_bp", "merc", "ind"],
+  "tags":["rare_bp", "merc"],
   "tech": "Unknown",
   "weaponSlotChanges":{
 	"WS0001":{

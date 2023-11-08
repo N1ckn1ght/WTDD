@@ -11,4 +11,8 @@
 	"combatCapital":{
 		"wtdd_apogee3_assault":3,
 	},
+	"phaseLarge":{
+		"wtdd_doomlin_ballistic":3,
+		"wtdd_doomlin_missile":2,
+	}
 }

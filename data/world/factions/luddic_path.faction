@@ -1,8 +1,6 @@
 {
 	"knownShips":{
 		"hulls":[
-			"wtdd_apogee2_p",
-			"wtdd_apogee3",
 			"wtdd_doomlin"
 		],
 	},
