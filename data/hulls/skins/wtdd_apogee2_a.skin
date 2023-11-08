@@ -26,5 +26,34 @@
 	"WS0002":{
 	  "type": "UNIVERSAL"
 	}
+  },
+  "engineSlotChanges":{
+    "0":{
+      "style": "MIDLINE"
+    },
+    "1":{
+      "style": "MIDLINE"
+    },
+    "2":{
+      "style": "MIDLINE"
+    },
+    "3":{
+      "style": "MIDLINE"
+    },
+    "4":{
+      "style": "MIDLINE"
+    },
+    "5":{
+      "style": "MIDLINE"
+    },
+    "6":{
+      "style": "MIDLINE"
+    },
+    "7":{
+      "style": "MIDLINE"
+    },
+    "8":{
+      "style": "MIDLINE"
+    }
   }
 }
