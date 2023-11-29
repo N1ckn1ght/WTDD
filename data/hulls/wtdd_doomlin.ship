@@ -7,9 +7,9 @@
   "height": 269,
   "width": 242,
   "center": [121, 137],
-  "collisionRadius": 0,
-  "shieldCenter": [-2.5, 0],
-  "shieldRadius": 183,
+  "collisionRadius": 180,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 180,
   "viewOffset": 0,
   "builtInMods": [
     "ill_advised",
